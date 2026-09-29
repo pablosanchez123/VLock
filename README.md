@@ -62,7 +62,6 @@ scripts/     Instalación y despliegue
 docs/        Documentación
 ```
 
-Detalle técnico completo en [`PROYECTO.md`](PROYECTO.md).
 
 ## Contrato en testnet
 
