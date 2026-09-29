@@ -1,4 +1,4 @@
-# Idea del proyecto: votación presencial con conteo en Stellar
+# VLock: votación presencial con conteo en Stellar
 
 ## Problema
 

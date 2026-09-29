@@ -1,4 +1,4 @@
-# Proyecto: votación presencial con conteo verificable en Stellar
+# VLock: votación presencial con conteo verificable en Stellar
 
 Documento de contexto completo para el equipo y sus asistentes de IA. Es autocontenido:
 con este archivo se puede empezar a trabajar sin haber leído nada más.
@@ -477,7 +477,7 @@ que el contrato esté desplegado.
 
 ## 12. Pendientes y decisiones abiertas
 
-- [ ] Nombre del proyecto
+- [x] Nombre del proyecto: **VLock**
 - [ ] Repositorio público en GitHub (quién lo crea, nombre)
 - [ ] Registro de todo el equipo en Stellar Passport y creación del equipo
 - [ ] Dónde se publica la demo (sitio estático)
