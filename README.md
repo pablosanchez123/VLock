@@ -53,16 +53,6 @@ Todo funciona en la red de pruebas de Stellar (testnet).
 - Contrato inteligente en **Rust** con **Soroban** (Stellar).
 - Aplicación web en **TypeScript** con **React**.
 
-## Estructura
-
-```
-contracts/   Contrato inteligente
-app/         Aplicación web
-scripts/     Instalación y despliegue
-docs/        Documentación
-```
-
-
 ## Contrato en testnet
 
 Pendiente de despliegue.

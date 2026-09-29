@@ -215,22 +215,7 @@ masivo, las actas escritas a mano, la transmisión y el escrutinio de todas las 
 
 ### Estructura del repositorio
 
-```
-contracts/eleccion/     Contrato Soroban (Rust) y sus tests
-app/                    App web (React + Vite + TS)
-  src/pages/Quiosco.tsx
-  src/pages/Resultados.tsx
-  src/pages/Admin.tsx
-  src/pages/Auditoria.tsx
-  src/contracts/eleccion/   bindings generados (no editar a mano)
-  src/lib/comprobantes.ts   formato y hash de comprobantes
-scripts/                Cuentas de testnet, despliegue, simulación de jornada
-docs/                   Bases del hackathon, notas de Stellar, decisiones
-idea/                   Resumen de la idea
-pitch/                  Guion y material del video
-entrega/checklist.md    Checklist de entrega
-PROYECTO.md             Este documento
-```
+Pendiente: el equipo todavía no definió cómo se organiza el trabajo.
 
 ---
 
