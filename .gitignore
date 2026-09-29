@@ -1,0 +1,23 @@
+# Rust / Soroban
+target/
+**/*.wasm
+.soroban/
+.stellar/
+
+# Node
+node_modules/
+dist/
+.next/
+.vite/
+
+# Secretos (claves de cuentas Stellar, tokens)
+.env
+*.env
+!.env.example
+*.secret
+identity/
+
+# Varios
+.DS_Store
+*.log
+pitch/assets/*.mp4
